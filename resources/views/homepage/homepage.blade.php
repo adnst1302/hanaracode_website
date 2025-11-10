@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Landpagy - Landing Page Template</title>
+    <title>Hanaracode - Collaboration Team</title>
     <link rel="shortcut icon" href="{{asset('ladun')}}/assets/images/favicon.ico" type="image/x-icon" />
     <!-- Fontawesome CSS -->
     <link rel="stylesheet" href="{{asset('ladun')}}/assets/css/fontawesome.min.css" />
@@ -96,14 +96,11 @@
 
 
                         <h1 class="page-title">Something great is coming soon</h1>
-                        <p class="title-text">Subscribe to the newslater to stay in the latest updates.</p>
 
-                        <div class="comming-countdown" id="timer" data-endtime="25 june 2030 10:00:00 GMT+01:00"></div>
 
-                        <form class="form-group">
-                            <input type="email" placeholder="Enter your email to book demo" />
-                            <button type="submit" class="btn btn-red">Submit</button>
-                        </form>
+                        <div class="comming-countdown" id="timer" data-endtime="25 june 2025 10:00:00 GMT+01:00"></div>
+
+                       
 
                         <ul class="social-list">
                             <li>
